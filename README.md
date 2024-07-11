@@ -5,6 +5,9 @@ The Game is known as Chor police Game in rural area also quite popular.
 In the game, four cards named Thief, Police, King and Robber as hidden.
 To play the game four players is needed to play.
 
+![Allocated_open_chits](https://github.com/PollobRay/Thief-Police-King-and-Robber-Game-in-VB/assets/96225924/612ec68b-28f5-4d6f-be31-a64159174c75)
+Reference: https://en.wikipedia.org/wiki/Raja_Chor_Mantri_Sipahi
+
 Steps:
 1. Firstly four cards are place randomly.
 2. Then four players have to picked the card randomly.
